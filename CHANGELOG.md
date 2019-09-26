@@ -1,5 +1,8 @@
 # Change Log
 
+## 6.21.2 - 2019-09-26
+- XRDDEV-653: Fix install on Ubuntu 14.04 fails.
+
 ## 6.21.1 - 2019-05-22
 - XRDDEV-526: Fix adding a WSDL with a newer version of an existing service fails.
 - XRDDEV-506: Fix operational monitoring does not record request_out_ts and response_in_ts for REST messages.
