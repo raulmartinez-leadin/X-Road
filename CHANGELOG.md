@@ -1,5 +1,8 @@
 # Change Log
 
+## 6.20.2 - 2019-09-26
+- XRDDEV-653: Fix install on Ubuntu 14.04 fails.
+
 ## 6.20.1 - 2019-02-05
 - XRDDEV-351: Fix XRDDEV-351
 
